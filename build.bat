@@ -1,0 +1,1 @@
+clang main.c -o chladni.exe -I. SDL3.lib -I. SDL3_ttf.lib
